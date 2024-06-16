@@ -1,0 +1,4 @@
+﻿  Pattern Command.cpp
+D:\Проекты\Pattern Command\Pattern Command.cpp(105,36): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\Pattern Command\Pattern Command.cpp(176,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pattern Command.vcxproj -> D:\Проекты\Pattern Command\x64\Debug\Pattern Command.exe
